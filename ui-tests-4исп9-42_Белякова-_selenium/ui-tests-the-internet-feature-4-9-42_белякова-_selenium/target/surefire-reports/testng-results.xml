@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-23T15:59:37 MSK" name="Surefire suite" finished-at="2026-09-23T15:59:47 MSK" duration-ms="10221">
+    <groups>
+    </groups>
+    <test started-at="2026-09-23T15:59:37 MSK" name="Surefire test" finished-at="2026-09-23T15:59:47 MSK" duration-ms="10221">
+      <class name="tests.InputsTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.InputsTest@45018215]" started-at="2026-09-23T15:59:37 MSK" name="setUp" finished-at="2026-09-23T15:59:38 MSK" duration-ms="1096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="inputAcceptsNumber()[pri:0, instance:tests.InputsTest@45018215]" started-at="2026-09-23T15:59:38 MSK" name="inputAcceptsNumber" finished-at="2026-09-23T15:59:43 MSK" duration-ms="4828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputAcceptsNumber -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.InputsTest@45018215]" started-at="2026-09-23T15:59:43 MSK" name="tearDown" finished-at="2026-09-23T15:59:43 MSK" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.InputsTest@45018215]" started-at="2026-09-23T15:59:43 MSK" name="setUp" finished-at="2026-09-23T15:59:43 MSK" duration-ms="527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="inputWorksWithArrowKeys()[pri:0, instance:tests.InputsTest@45018215]" started-at="2026-09-23T15:59:43 MSK" name="inputWorksWithArrowKeys" finished-at="2026-09-23T15:59:47 MSK" duration-ms="3390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputWorksWithArrowKeys -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.InputsTest@45018215]" started-at="2026-09-23T15:59:47 MSK" name="tearDown" finished-at="2026-09-23T15:59:47 MSK" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.InputsTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
